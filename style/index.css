@@ -1,0 +1,34 @@
+@import url("https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap");
+
+body {
+  background-color: #eee;
+}
+
+.form-check-label {
+  cursor: pointer;
+}
+
+.form__input {
+  margin: 0 0 8px 0 !important;
+}
+
+.form__label__img {
+  height: 64px;
+}
+
+button {
+  border: none;
+}
+.btn__img {
+  width: 56px;
+  height: 56px;
+}
+button span {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+#resultado {
+  font-size: 6rem;
+  font-family: "Share Tech Mono", monospace;
+}
