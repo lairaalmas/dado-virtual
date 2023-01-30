@@ -1,8 +1,8 @@
 # Dado virtual
 
-Página web para rolagem de dados virtuais.
+Página web criada para rolagem de dados virtuais.
 
-Inclui: d4, d6, d8, d10, d12 e d20.
+Inclui os seguintes dados: d4, d6, d8, d10, d12 e d20.
 
 Atualmente não inclui d100 por não ter encontrado um ícone no mesmo modelo dos outros.
 
@@ -10,7 +10,7 @@ Atualmente não inclui d100 por não ter encontrado um ícone no mesmo modelo do
 
 🦖 [Laira Almas](https://github.com/lairaalmas)
 
-## Technologias
+## Tecnologias
 
 - HTML
 - CSS
